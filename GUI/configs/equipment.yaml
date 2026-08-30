@@ -1,0 +1,95 @@
+2-20ml-bottle-holder:
+  columns: 2
+  liquid-amount: 18000
+  liquid-height: 27
+  name: 2-20ml-bottle-holder
+  rows: 1
+  type:
+  - Source
+  - Target
+  x: 33
+  y: 24
+  z-drop: 35
+35-4ml-vial-holder:
+  columns: 5
+  liquid-amount: 4000
+  liquid-height: 20
+  name: 35-sample-holder
+  rows: 7
+  type:
+  - Source
+  - Target
+  x: 17.5
+  y: 19
+  z-drop: 20
+6-5ml-sample-holder:
+  columns: 2
+  liquid-amount: 4800
+  liquid-height: 23
+  name: 6-5ml-sample-holder
+  rows: 3
+  type:
+  - Source
+  - Target
+  x: 33
+  y: 24
+  z-drop: 30
+96-wellplate:
+  columns: 8
+  liquid-amount: 350
+  liquid-height: 11
+  name: 96-wellplate
+  origin: bottom-left
+  rows: 12
+  type:
+  - Source
+  - Target
+  x: 9
+  y: 9
+  z-drop: 2
+15ml-falcon-tube-holder:
+  columns: 2
+  liquid-amount: 10000
+  liquid-height: 70
+  name: falcon-tube-holder
+  rows: 5
+  type:
+  - Source
+  - Target
+  x: 22.5
+  y: 23.75
+  z-drop: 50
+200ul-tip-holder:
+  columns: 11
+  name: small-tip-holder
+  origin: top-right
+  rows: 5
+  type:
+  - TipHolder
+  x: 9
+  y: 9
+  z-drop: 10
+  z-lift: 61
+1000ul-tip-holder:
+  columns: 7
+  name: tip-holder
+  origin: top-right
+  rows: 5
+  type:
+  - TipHolder
+  x: 11
+  y: 11
+  z-drop: 32
+  z-lift: 95
+5-2ml-centrifuge-tubes:
+  columns: 1
+  liquid-amount: 1500
+  liquid-height: 15
+  name: vial-holder
+  rows: 5
+  type:
+  - Source
+  - Target
+  x: 22.5
+  y: 23.75
+  z-drop: 22

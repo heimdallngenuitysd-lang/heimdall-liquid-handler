@@ -1,0 +1,98 @@
+alfred:
+  aspiration_actuation_time: 1120
+  blowout_actuation_time: 400
+  blowout_pause_time: 2000
+  decimal_position: 0
+  dispense_dwell_time: 2000
+  dispose_actuate_z: 11
+  dispose_initial_y: 15
+  dispose_initial_z: 70
+  dispose_start:
+  - 150
+  - 85
+  - 246
+  dispose_y: 17
+  extruder: true
+  max_vol: 1000
+  min_vol: 100
+  preset: null
+  prime_dwell_time_after: 1000
+  prime_dwell_time_before: 1
+  vol_adjust_position:
+  - 83.4
+  - 65.0
+  - 196.5
+heimdall:
+  aspiration_actuation_time: 1120
+  blowout_actuation_time: 300
+  blowout_pause_time: 2000
+  decimal_position: 1
+  dispense_dwell_time: 1600
+  dispose_actuate_z: 11
+  dispose_initial_y: 15
+  dispose_initial_z: 70
+  dispose_start:
+  - 160
+  - 85
+  - 246
+  dispose_y: 18
+  extruder: true
+  max_vol: 100
+  min_vol: 10
+  preset: null
+  prime_dwell_time_after: 1000
+  prime_dwell_time_before: 1
+  vol_adjust_position:
+  - 77.1
+  - 86.3
+  - 193.5
+charlie:
+  aspiration_actuation_time: 1120
+  blowout_actuation_time: 400
+  blowout_pause_time: 2000
+  decimal_position: 1
+  dispense_dwell_time: 50
+  dispose_actuate_z: 12
+  dispose_initial_y: 15
+  dispose_initial_z: 40
+  dispose_start:
+  - 119.8
+  - 82.9
+  - 248.3
+  dispose_y: 18
+  extruder: true
+  max_vol: 200
+  min_vol: 20
+  pipette-interval: 2
+  preset: null
+  prime_dwell_time_after: 1000
+  prime_dwell_time_before: 1
+  vol_adjust_position:
+  - 43.1
+  - 99.9
+  - 217.5
+cylie:
+  aspiration_actuation_time: 1120
+  blowout_actuation_time: 400
+  blowout_pause_time: 2000
+  decimal_position: 1
+  dispense_dwell_time: 50
+  dispose_actuate_z: 12
+  dispose_initial_y: 15
+  dispose_initial_z: 65
+  dispose_start:
+  - 160
+  - 75
+  - 246
+  dispose_y: 18
+  dobot_server: true
+  extruder: true
+  max_vol: 100
+  min_vol: 10
+  preset: null
+  prime_dwell_time_after: 1000
+  prime_dwell_time_before: 1
+  vol_adjust_position:
+  - 83.4
+  - 65.0
+  - 196.5

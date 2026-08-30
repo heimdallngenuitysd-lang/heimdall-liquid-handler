@@ -1,0 +1,10 @@
+opencv-python
+pyserial
+matplotlib
+pyyaml
+spatialmath-python
+python-dotenv
+google-genai
+numpy
+pymodbus
+pyzmq

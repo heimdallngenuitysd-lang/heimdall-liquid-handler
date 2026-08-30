@@ -1,0 +1,21 @@
+.DS_Store
+
+# Ignore the virtual environment
+GUI/.venv/
+GUI/build/
+GUI/dist/
+
+# Ignore all images in the GUI folder
+GUI/Pipette Pictures/
+GUI/configs/user.yaml
+GUI/gcode
+GUI/*.jpg
+GUI/*.png
+GUI/*.gcode
+GUI/*.env
+GUI/assignments
+GUI/*.csv
+# Bonus: also ignore python cache files
+GUI/__pycache__/
+Dobot/dobot_api/__pycache__
+test.*

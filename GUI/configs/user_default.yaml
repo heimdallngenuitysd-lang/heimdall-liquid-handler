@@ -1,0 +1,5 @@
+camera: 0
+esp-port: COM1
+printer: heimdall
+printer-port: COM2
+volume-adjust: false
