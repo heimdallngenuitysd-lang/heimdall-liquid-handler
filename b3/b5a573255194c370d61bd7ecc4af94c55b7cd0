@@ -1,0 +1,235 @@
+GUI/requirements.txt
+  s_aef8d17091c60b::t_abe65e298fd0bc 1-10
+"Hardware/STEP Files/Driven Gear.step"
+  s_aef8d17091c60b::t_274cd5fc9b4a3b 1-145035
+"Hardware/STEP Files/Frame.step"
+  s_aef8d17091c60b::t_f536dea6477844 1-3322
+README.md
+  s_aef8d17091c60b::t_0c7d65ffb3ff7c 1
+"Hardware/STEP Files/Board Camera Holder.step"
+  s_aef8d17091c60b::t_1c52b1569abc56 1-1161
+"Hardware/STEP Files/96 Wellplate Holder.step"
+  s_aef8d17091c60b::t_386475f747f8e8 1-788
+GUI/LiquidHandler.spec
+  s_aef8d17091c60b::t_7a1fcb195a89ea 83
+  s_aef8d17091c60b::t_03e4cb68cb5b6f 2
+  s_aef8d17091c60b::t_b59890d9c2c9a4 1,3-5,10-65,67-82,84-91
+  s_aef8d17091c60b::t_8e20bdb7ad5e1b 6-9
+  s_aef8d17091c60b::t_df9302e1cd11e9 66
+GUI/assignment_window.py
+  s_aef8d17091c60b::t_b738c50a9f05ad 192,206,280-281,283,307,310-317,384,551,663,846,855,948,1058,1068,1079,1087,1094,1100,1105,1109,1113,1118,1122,1127,1133,1137,1143,1148,1186,1189,1201,1210,1217,1224,1240,1250,1261,1272,1366
+  s_aef8d17091c60b::t_0475813a7d0dd0 391-409,425,598,887,1433,1436,1439
+  s_aef8d17091c60b::t_2094d361ebdb08 1114-1117
+  s_aef8d17091c60b::t_4b077a199f9ff6 664-666,843-845
+  s_aef8d17091c60b::t_df9c2f2f53bfac 318
+  s_aef8d17091c60b::t_c9410e6f7845fa 1080-1082,1084-1086
+  s_aef8d17091c60b::t_9b8417f3aa84e6 1190-1192,1198-1200
+  s_aef8d17091c60b::t_ed3d0bee67aab3 1144-1147
+  s_aef8d17091c60b::t_06de60f9c618f7 599-601,660-662
+  s_aef8d17091c60b::t_5376ce8b1588cc 1273-1275,1335-1337
+  s_aef8d17091c60b::t_f200cedd380250 847-849,852-854
+  s_aef8d17091c60b::t_5b2490455592a3 1-67,75-188,196-202,210-276,287-303,333-380,413-421,429-543,555-594,602-659,667-842,850-851,859-880,891-944,952-1054,1062-1064,1072-1075,1083,1152-1182,1193-1197,1205-1206,1228-1236,1244-1246,1254-1257,1265-1268,1276-1334,1342-1362,1370-1429,1443-1484
+  s_aef8d17091c60b::t_974da207e6b851 284-286,304-306
+  s_aef8d17091c60b::t_6ead2b9a7fc2ec 282
+  s_aef8d17091c60b::t_f53667f3193ddd 1128-1132
+  s_aef8d17091c60b::t_03f2e9a6761d29 1440-1442
+  s_aef8d17091c60b::t_a669505054a019 207-209,277-279
+  s_aef8d17091c60b::t_36710fcc5736f2 72-74,189-191
+  s_aef8d17091c60b::t_f275018c2b7cfa 410-412,422-424
+  s_aef8d17091c60b::t_3628d54fdf58de 1088-1093
+  s_aef8d17091c60b::t_6a0ede57881a8c 385-390
+  s_aef8d17091c60b::t_478b4148dbce00 856-858,881-883
+  s_aef8d17091c60b::t_bac876bfb27a79 71
+  s_aef8d17091c60b::t_3223f714456c9e 1241-1243,1247-1249
+  s_aef8d17091c60b::t_08daead24e147a 1110-1112
+  s_aef8d17091c60b::t_22d4886bf8a521 1187-1188
+  s_aef8d17091c60b::t_21775ee07876aa 885-886
+  s_aef8d17091c60b::t_719c2e32bf264b 1262-1264,1269-1271
+  s_aef8d17091c60b::t_1cd55bdf988ff7 1119-1121
+  s_aef8d17091c60b::t_8d48621544bc29 888-890,945-947
+  s_aef8d17091c60b::t_a6360d67540696 1059-1061,1065-1067
+  s_aef8d17091c60b::t_4df128d802607e 68-70
+  s_aef8d17091c60b::t_aee26c3539dd60 309,319-329,547,884
+  s_aef8d17091c60b::t_142b2c1f508f31 193-195,203-205
+  s_aef8d17091c60b::t_c1235151995a72 308
+  s_aef8d17091c60b::t_fb9b19570716aa 1069-1071,1076-1078
+  s_aef8d17091c60b::t_ca3a3b225272de 1339-1341,1363-1365
+  s_aef8d17091c60b::t_80b93fce804f0b 1367-1369,1430-1432
+  s_aef8d17091c60b::t_127d94ca506305 1434-1435
+  s_aef8d17091c60b::t_2c80063f9d5216 426-428,544-546
+  s_aef8d17091c60b::t_32125166329836 1149-1151,1183-1185
+  s_aef8d17091c60b::t_69fba25e0a6d7e 548-550
+  s_aef8d17091c60b::t_b757791bfbfdc9 1095-1099
+  s_aef8d17091c60b::t_bee9171682aaf6 1138-1142
+  s_aef8d17091c60b::t_beac0db32a9c2c 1211-1216
+  s_aef8d17091c60b::t_c90aefba221d11 1218-1223
+  s_aef8d17091c60b::t_83fc1e38ec5c7b 552-554,595-597
+  s_aef8d17091c60b::t_7f35f07f0c443e 1101-1104
+  s_aef8d17091c60b::t_b651084df8fffe 1202-1204,1207-1209
+  s_aef8d17091c60b::t_ce842fed572dd4 1437-1438
+  s_aef8d17091c60b::t_d1ea7002cfdb9c 1251-1253,1258-1260
+  s_aef8d17091c60b::t_66b49d4d60de19 949-951,1055-1057
+  s_aef8d17091c60b::t_e39ea25cbcd698 1123-1126
+  s_aef8d17091c60b::t_c6a6a01ada7ca6 330-332,381-383
+  s_aef8d17091c60b::t_850636cebadf84 1106-1108
+  s_aef8d17091c60b::t_0cb00ae1222985 1225-1227,1237-1239
+  s_aef8d17091c60b::t_64b32f0a92e668 1338
+  s_aef8d17091c60b::t_0bc5b2a19375e3 1134-1136
+GUI/esp_comm.py
+  s_aef8d17091c60b::t_28583859be606d 1-1285
+ESP32/esp_comm/esp_comm.ino
+  s_aef8d17091c60b::t_a454cc466b6683 1-226
+ESP32/spin_coater/spin_coater.ino
+  s_aef8d17091c60b::t_a61a272137339e 1-492
+ESP32/current_sensor/current_sensor.ino
+  s_aef8d17091c60b::t_b31bad933c68b6 1-108
+GUI/configs/equipment.yaml
+  s_aef8d17091c60b::t_8abe5eadf31ce2 1-95
+"Hardware/STEP Files/Pipette Holder for 2-200microliter tips.step"
+  s_aef8d17091c60b::t_39d015a04aaa0f 1-2660
+Firmware/private/truefont/truefont.ini
+  s_aef8d17091c60b::t_9c68683acc6074 1-2
+GUI/build_windows.bat
+  s_aef8d17091c60b::t_71b324b59c044b 1-4,12,22,37-39,47
+  s_aef8d17091c60b::t_723b86813d36d1 5-11,13-21,23-36,40-46,48
+GUI/configs/user_default.yaml
+  s_aef8d17091c60b::t_1f7aa5d5f9a722 3
+  s_aef8d17091c60b::t_8e5aed207f698b 4-5
+  s_aef8d17091c60b::t_ae2517040049e7 1-2
+"Hardware/STEP Files/Camera Mount - Creality Nebula.step"
+  s_aef8d17091c60b::t_635df92204c1cb 1-1286
+"Hardware/STEP Files/Driver Gear.step"
+  s_aef8d17091c60b::t_13fbb826e035b9 1-69572
+GUI/base_window.py
+  s_aef8d17091c60b::t_3886f01f554548 2-4,194-196
+  s_aef8d17091c60b::t_8dfb9c527925b3 209-211,313-315
+  s_aef8d17091c60b::t_8b417e6e8b7a00 316
+  s_aef8d17091c60b::t_6b04bc46bba66f 197-208
+  s_aef8d17091c60b::t_cfaa53a08bd00f 1
+  s_aef8d17091c60b::t_bcff0cc6696543 317-319
+  s_aef8d17091c60b::t_96ae2b9b16704d 5-193,212-312,320-668
+"GUI/configs/equipment/35 blank.csv"
+  s_aef8d17091c60b::t_0b71de1fdfaf6f 1-30
+GUI/build_mac.sh
+  s_aef8d17091c60b::t_f07b6d1bb4b126 7-10,12-18,20
+  s_aef8d17091c60b::t_5faedce53e99f7 1-6,11,19
+"Hardware/STEP Files/Frame Linear Actuator Mount.step"
+  s_aef8d17091c60b::t_bbfd6608754ec4 1-1171
+GUI/gcode_helper.py
+  s_aef8d17091c60b::t_216cb60915f832 1-140
+GUI/printer_controller.py
+  s_aef8d17091c60b::t_c2b272b6c3c5be 1-193
+Firmware/private/config.txt
+  s_aef8d17091c60b::t_b8fdbc11bd62b5 1-6
+GUI/main.py
+  s_aef8d17091c60b::t_0eb32c303e02c5 114-116,141-143
+  s_aef8d17091c60b::t_5482eaddfd1f65 9-32,117-140,167-182
+  s_aef8d17091c60b::t_b99a21d97e3c32 144-163
+  s_aef8d17091c60b::t_34dc44a28c5f2d 164-166,183-185
+  s_aef8d17091c60b::t_90661590655f4f 36-113
+  s_aef8d17091c60b::t_2dc1c60e5558ba 186-199
+  s_aef8d17091c60b::t_aca9025cfbf099 1
+  s_aef8d17091c60b::t_605c078ff19268 2-5
+  s_aef8d17091c60b::t_a99de6913e460f 6-8,33-35
+GUI/vlm_controller.py
+  s_aef8d17091c60b::t_4d19a2128848e7 55
+  s_aef8d17091c60b::t_f8fe6684011c10 19
+  s_aef8d17091c60b::t_f043eebc5aeee8 1-15,23-27,36-51,59-165,173-258
+  s_aef8d17091c60b::t_81be170ec7a1de 33-35,52-54
+  s_aef8d17091c60b::t_3c199fe18ff492 169
+  s_aef8d17091c60b::t_bceefbbab10315 31-32
+  s_aef8d17091c60b::t_81080af85f8470 16-18
+  s_aef8d17091c60b::t_deb54f78044760 56-58,166-168
+  s_aef8d17091c60b::t_7f62311f54ae2b 170-172
+  s_aef8d17091c60b::t_73a4bea228932a 20-22,28-30
+"Hardware/STEP Files/Tip Catcher.step"
+  s_aef8d17091c60b::t_ca4f2716523e47 1-1332
+GUI/configuration_window.py
+  s_aef8d17091c60b::t_764e02f5c5ddee 1-719
+"Hardware/STEP Files/Bed plate.step"
+  s_aef8d17091c60b::t_dc819adb7eff8b 1-3911
+"Hardware/STEP Files/8 Sample Holder.step"
+  s_aef8d17091c60b::t_6e5c3ccd9557c4 1-892
+LICENSE
+  s_aef8d17091c60b::t_2f0021bd037217 1-674
+GUI/equipment.py
+  s_aef8d17091c60b::t_8cc7ebdc5ab332 1878-1879
+  s_aef8d17091c60b::t_4693db9250c21b 1905-1907,1912-1914
+  s_aef8d17091c60b::t_ff185b0b8b77dd 2028-2030,2036-2038
+  s_aef8d17091c60b::t_fb9a084e6c3395 1903
+  s_aef8d17091c60b::t_8553840e1e5ef3 1705-1707,1767-1769
+  s_aef8d17091c60b::t_930e8b550d33c0 1
+  s_aef8d17091c60b::t_1bb7aca7f4eb1a 1864-1877
+  s_aef8d17091c60b::t_4aed4a413c6d13 2016-2018,2024-2026
+  s_aef8d17091c60b::t_752368a95224dc 212,471,505,1770,1880,1904,1915,1977,1990,2001,2015,2047,2065-2086,2088,2102,2113,2125
+  s_aef8d17091c60b::t_68dad0354436d3 1818-1820,1861-1863
+  s_aef8d17091c60b::t_ad600423f82e31 477-479,502-504
+  s_aef8d17091c60b::t_f2a45ec923cdde 506-508,1701-1703
+  s_aef8d17091c60b::t_9f7662ca19c079 2027
+  s_aef8d17091c60b::t_dc793392ad0d1b 1991-1993,1998-2000
+  s_aef8d17091c60b::t_fabcb16ba096ef 2040
+  s_aef8d17091c60b::t_76fea5b784556b 6-208,216-467,480-501,509-1700,1708-1766,1821-1860,1884-1892,1908-1911,1919-1973,1981-1986,1994-1997,2005-2011,2019-2023,2031-2035,2051-2061,2092-2098,2106-2109,2117-2121,2129-2166
+  s_aef8d17091c60b::t_aa69c0c0c8f18f 2002-2004,2012-2014
+  s_aef8d17091c60b::t_89351b7af8915e 2114-2116,2122-2124
+  s_aef8d17091c60b::t_58bbca335c2879 1704
+  s_aef8d17091c60b::t_9eeef89276f0c8 1900-1901
+  s_aef8d17091c60b::t_1c89b119e33c13 472-475
+  s_aef8d17091c60b::t_d937dd80a8e334 476,1771-1817
+  s_aef8d17091c60b::t_7058eaceacd80f 3-5,209-211
+  s_aef8d17091c60b::t_0e5df7f667fe01 1978-1980,1987-1989
+  s_aef8d17091c60b::t_d34ced706e670d 1902,2039,2041-2043
+  s_aef8d17091c60b::t_1ae64291eb08fe 2048-2050,2062-2064
+  s_aef8d17091c60b::t_45b6e2cd629a14 2089-2091,2099-2101
+  s_aef8d17091c60b::t_7963aa676e839e 2126-2128
+  s_aef8d17091c60b::t_903c93d32037f9 2044-2046
+  s_aef8d17091c60b::t_5174909bc01b57 2087
+  s_aef8d17091c60b::t_bc5cf45f001132 1881-1883,1893-1895
+  s_aef8d17091c60b::t_b57bfc621066ba 1896-1899
+  s_aef8d17091c60b::t_4c3457ae69bcd7 213-215,468-470
+  s_aef8d17091c60b::t_4e251f7c27558a 1916-1918,1974-1976
+  s_aef8d17091c60b::t_e5dd1afed120fe 2
+  s_aef8d17091c60b::t_75784440d0785e 2103-2105,2110-2112
+"Hardware/STEP Files/Pipette Bracket.step"
+  s_aef8d17091c60b::t_a89527d404afcd 1-1231
+GUI/configs/printers.yaml
+  s_aef8d17091c60b::t_37d01b99543c52 25
+  s_aef8d17091c60b::t_dee0d4b7dcebdb 50-52
+  s_aef8d17091c60b::t_7a6c037cb0681f 1-21,29-45,53-98
+  s_aef8d17091c60b::t_eb76a483d079be 22-24
+  s_aef8d17091c60b::t_d8691546accd4a 26-28,46-48
+  s_aef8d17091c60b::t_390c784356f8f4 49
+ESP32/spin_esp_combined/spin_esp_combined.ino
+  s_aef8d17091c60b::t_0a3ae53992e2af 1-544
+.gitignore
+  s_aef8d17091c60b::t_fe4b8282518cae 5-6
+  s_aef8d17091c60b::t_acbdc1392138bf 7-9
+  s_aef8d17091c60b::t_0cf113c51aa480 10-21
+  s_aef8d17091c60b::t_baa897a293fe9a 1-2
+  s_aef8d17091c60b::t_aaea907237f568 3-4
+"Hardware/STEP Files/Yellow Pipette Tip Box Holder.step"
+  s_aef8d17091c60b::t_637a28d38e7e52 1-2013
+"Hardware/STEP Files/Tip Disposal.step"
+  s_aef8d17091c60b::t_0440f2eab8885f 1-1746
+ESP32/linear_actuator/linear_actuator.ino
+  s_aef8d17091c60b::t_f38105e704b170 1-108
+"Hardware/STEP Files/12 Bottle Holder.step"
+  s_aef8d17091c60b::t_bd9ba1f1322df7 1-1664
+"Hardware/STEP Files/Tip Ejector.step"
+  s_aef8d17091c60b::t_8c612680377c31 1-2143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "b3b5a573255194c370d61bd7ecc4af94c55b7cd0",
+  "prompts": {},
+  "sessions": {
+    "s_aef8d17091c60b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "998fba4c-241e-4589-a6bc-9c50c6d13a0a",
+        "model": "grok-4.6"
+      },
+      "human_author": "Mohan Panddey <mohan.pandey@telekom-digital.com>"
+    }
+  }
+}
