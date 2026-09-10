@@ -316,6 +316,18 @@ class AssignmentUI(tk.Frame):
         volume_entry.bind("<Return>", lambda _e: self._apply_volume())
         volume_entry.bind("<FocusOut>", lambda _e: self._apply_volume())
 
+        tk.Button(
+            self.inner,
+            text="Confirm Volume",
+            command=self._apply_volume,
+            bg=CARD,
+            fg=TEXT,
+            relief=tk.FLAT,
+            padx=6,
+            pady=4,
+            cursor="hand2"
+        ).pack(anchor=tk.W, pady=4)
+
     def _apply_volume(self):
         raw = (self.volume_var.get() or "").strip()
         if not raw:
