@@ -1,0 +1,19 @@
+GUI/assignment_window.py
+  s_aef8d17091c60b::t_c30db7443ee725 319-330
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "d460997d61d50d75e8a79e93e6d48c717b3a2b48",
+  "prompts": {},
+  "sessions": {
+    "s_aef8d17091c60b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "998fba4c-241e-4589-a6bc-9c50c6d13a0a",
+        "model": "composer-2.5"
+      },
+      "human_author": "Mohan Panddey <mohan.pandey@telekom-digital.com>"
+    }
+  }
+}
